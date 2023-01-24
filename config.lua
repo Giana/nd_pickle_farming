@@ -201,6 +201,9 @@ Config.Exchange = {
             ["carrot_raw"] = {required = 2, name = "carrot", min = 1, max = 1},
             ["potato_raw"] = {required = 2, name = "potato", min = 1, max = 1},
             ["pickle_raw"] = {required = 2, name = "pickle", min = 1, max = 1},
+            ["weed_raw"] = {required = 2, name = "weed", min = 1, max = 1},
+            ["cocaine_raw"] = {required = 2, name = "cocaine", min = 1, max = 1},
+            ["heroin_raw"] = {required = 2, name = "heroin", min = 1, max = 1},
         }
     },
     -- Selling
@@ -222,6 +225,9 @@ Config.Exchange = {
             ["carrot"] = {name = "money", min = 20, max = 40},
             ["potato"] = {name = "money", min = 20, max = 40},
             ["pickle"] = {name = "money", min = 20, max = 40},
+            ["weed"] = {name = "money", min = 20, max = 40},
+            ["cocaine"] = {name = "money", min = 20, max = 40},
+            ["heroin"] = {name = "money", min = 20, max = 40},
         }
     },
 }

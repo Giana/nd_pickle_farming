@@ -3,7 +3,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows corn."
+    description = "This is a seed that grows corn.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['corn_raw'] = {
@@ -26,7 +29,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows a tomato."
+    description = "This is a seed that grows a tomato.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['tomato_raw'] = {
@@ -49,7 +55,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows Wheat."
+    description = "This is a seed that grows Wheat.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['wheat_raw'] = {
@@ -72,7 +81,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows broccoli."
+    description = "This is a seed that grows broccoli.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['broccoli_raw'] = {
@@ -95,7 +107,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows a carrot."
+    description = "This is a seed that grows a carrot.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['carrot_raw'] = {
@@ -118,7 +133,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows a potato."
+    description = "This is a seed that grows a potato.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['potato_raw'] = {
@@ -141,7 +159,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows a pickle."
+    description = "This is a seed that grows a pickle.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['pickle_raw'] = {
@@ -164,7 +185,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows weed."
+    description = "This is a seed that grows weed.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['weed_raw'] = {
@@ -187,7 +211,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows cocaine."
+    description = "This is a seed that grows cocaine.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['cocaine_raw'] = {
@@ -210,7 +237,10 @@
     weight = 1,
     stack = true,
     close = true,
-    description = "This is a seed that grows heroin."
+    description = "This is a seed that grows heroin.",
+    server = {
+        export = 'nd_pickle_farming.seed'
+    }
 },
 
 ['heroin_raw'] = {
