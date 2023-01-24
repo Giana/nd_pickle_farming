@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=2nlrVU-w7KI
 
 ## What is this?
 
-<p>This is a multi-framework farming system that's great for players to do as an activity!</p>
+<p>This is an ND Framework farming system that's great for players to do as an activity!</p>
 
 <p>It's a great fit for any type of roleplaying server, whether it's Serious RP or not.</p>
 
@@ -19,17 +19,15 @@ With this resource, you will be able to do the following:
 - Process Plants (Multi-step is possible).
 - Sell Plants.
 
-## Supported Frameworks
+## Supported Framework
 
-- ESX 1.1+ & Legacy
-- QBCore
-- Standalone
+- ND (The original supports other frameworks)
 
 ## What do I need?
 
-Use a supported framework or make it work with yours via the bridge folder.
-
-<a href='https://github.com/overextended/ox_lib/releases/'>Ox Lib</a> (For the skill mini-game, not required).
+- <a href='https://github.com/ND-Framework/ND_Core'>ND_Core</a>
+- <a href='https://github.com/overextended/ox_inventory'>ox_inventory</a>
+- <a href='https://github.com/overextended/ox_lib'>ox_lib</a>
 
 ## Installation
 
@@ -39,11 +37,8 @@ Use a supported framework or make it work with yours via the bridge folder.
 
 ## Need Support?
 
-<a href='https://picklemods.com'>Click here!</a>
+<a href='https://picklemods.com'>Click here!</a> (Please note that they did not create this ND conversion)
 
 ## Licensing
 
-<p>Do not at any point redistribute this without my permission and credit.</p>
-<p>I've already had to issue reports on people selling my Television Script (which is free).</p>
-<p>That is not fair to me and to the people who get scammed out of their money.</p>
-<p>So please, respect the rules and have fun!</p>
+<p>Do not at any point redistribute this without permission from the original creator and credit to the original creator.</p>
